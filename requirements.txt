@@ -1,0 +1,28 @@
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+
+# PyTorch & PyTorch Geometric (please double-check CUDA version as needed)
+torch
+torch-geometric
+
+# Plotting & Visualization
+matplotlib
+seaborn
+
+# Optional (for OS operations)
+# os (no install needed; standard library)
+
+# If you want to ensure compatibility with latest stable versions:
+# pandas>=2.2.3
+# numpy>=2.2.3
+# scikit-learn>=1.6.1
+# matplotlib>=3.10.1
+# seaborn>=0.13.2
+# torch>=2.6.0+cpu
+# torch-geometric>=2.6.1
+# torchinfo>=1.8.0
+
+
+
